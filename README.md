@@ -1,10 +1,7 @@
 # MiniProject-POO
 ##  Miniprojeto
 Criado e desenvolvido por <strong>Antônio José Monteiro Neto</strong>. <br>
-Este é um projeto que aplica os conceitos básicos de POO e Java e é utilizado como método de avaliação para a cadeira de Programação Orientada a Objetos 2024.1 da UFCA (Universidade Federal do Cariri).
-
-## Sobre o projeto: 
-Trata-se de um projeto que faz uma simulação de um campeonato de futebol simples entre clubes
+Este é um projeto que aplica os conceitos básicos de POO e Java para fazer uma simulação de um campeonato de futebol simples entre clubes
 
 ## Especificações:
 Regras:
