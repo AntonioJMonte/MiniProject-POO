@@ -1,7 +1,7 @@
 # MiniProject-POO
 ##  Miniprojeto
 Criado e desenvolvido por <strong>Antônio José Monteiro Neto</strong>. <br>
-Este é um projeto que aplica os conceitos básicos de POO e Java para fazer uma simulação de um campeonato de futebol simples entre clubes
+Este é um projeto que aplica os conceitos básicos de POO e Java para fazer uma simulação de um campeonato de futebol simples entre clubes.
 
 ## Especificações:
 Regras:
